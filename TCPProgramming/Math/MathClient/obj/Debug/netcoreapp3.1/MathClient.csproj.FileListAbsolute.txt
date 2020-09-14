@@ -1,0 +1,13 @@
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\bin\Debug\netcoreapp3.1\MathClient.exe
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\bin\Debug\netcoreapp3.1\MathClient.deps.json
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\bin\Debug\netcoreapp3.1\MathClient.runtimeconfig.json
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\bin\Debug\netcoreapp3.1\MathClient.runtimeconfig.dev.json
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\bin\Debug\netcoreapp3.1\MathClient.dll
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\bin\Debug\netcoreapp3.1\MathClient.pdb
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\obj\Debug\netcoreapp3.1\MathClient.AssemblyInfoInputs.cache
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\obj\Debug\netcoreapp3.1\MathClient.AssemblyInfo.cs
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\obj\Debug\netcoreapp3.1\MathClient.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\obj\Debug\netcoreapp3.1\MathClient.dll
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\obj\Debug\netcoreapp3.1\MathClient.pdb
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\obj\Debug\netcoreapp3.1\MathClient.genruntimeconfig.cache
+C:\Users\Jonas\Desktop\Uni - Zealand\Technology\TCPProgramming\Math\MathClient\obj\Debug\netcoreapp3.1\MathClient.csprojAssemblyReference.cache

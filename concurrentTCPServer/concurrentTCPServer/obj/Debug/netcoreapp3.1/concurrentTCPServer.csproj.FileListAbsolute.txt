@@ -1,0 +1,13 @@
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\bin\Debug\netcoreapp3.1\concurrentTCPServer.exe
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\bin\Debug\netcoreapp3.1\concurrentTCPServer.deps.json
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\bin\Debug\netcoreapp3.1\concurrentTCPServer.runtimeconfig.json
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\bin\Debug\netcoreapp3.1\concurrentTCPServer.runtimeconfig.dev.json
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\bin\Debug\netcoreapp3.1\concurrentTCPServer.dll
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\bin\Debug\netcoreapp3.1\concurrentTCPServer.pdb
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\obj\Debug\netcoreapp3.1\concurrentTCPServer.csprojAssemblyReference.cache
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\obj\Debug\netcoreapp3.1\concurrentTCPServer.AssemblyInfoInputs.cache
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\obj\Debug\netcoreapp3.1\concurrentTCPServer.AssemblyInfo.cs
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\obj\Debug\netcoreapp3.1\concurrentTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\obj\Debug\netcoreapp3.1\concurrentTCPServer.dll
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\obj\Debug\netcoreapp3.1\concurrentTCPServer.pdb
+C:\Users\Jonas\source\repos\concurrentTCPServer\concurrentTCPServer\obj\Debug\netcoreapp3.1\concurrentTCPServer.genruntimeconfig.cache

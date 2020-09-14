@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW-Carpaccio", "SW-Carpaccio\SW-Carpaccio.csproj", "{B311EE9C-6C49-4457-B408-A5C0F5D4A06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B311EE9C-6C49-4457-B408-A5C0F5D4A06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B311EE9C-6C49-4457-B408-A5C0F5D4A06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B311EE9C-6C49-4457-B408-A5C0F5D4A06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B311EE9C-6C49-4457-B408-A5C0F5D4A06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CECF098C-CB8B-457C-B55C-417A417CDF24}
+	EndGlobalSection
+EndGlobal
